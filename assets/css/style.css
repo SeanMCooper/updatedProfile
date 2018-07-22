@@ -1,0 +1,16 @@
+html{
+    background-image: url("../images/background.jpg");
+    background-repeat: repeat
+}
+
+.buttonSpace{
+    margin: 1%;
+}
+
+.page-wrapper{
+    border: black 1% solid; margin: 5%; background-color: lightblue;
+}
+
+#indented{
+    text-indent: 2em;
+}
